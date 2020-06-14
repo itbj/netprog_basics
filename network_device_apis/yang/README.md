@@ -1,3 +1,5 @@
+#20200614T2046 300-435 downloaded the PDF file.  👍
+#  
 # Getting the “YANG” of it with Standard Data Models
 
 ## "Gitting" the Code
